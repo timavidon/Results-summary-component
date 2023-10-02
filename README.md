@@ -36,5 +36,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Continued development
 
-To improve the responsive design and to improve my overall skills.
-learn to the best practices.
+To improve the responsive design and to improve my overall skills and learn the best practices.
