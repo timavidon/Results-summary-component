@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,7 +10,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -22,8 +21,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Github](https://github.com/timavidon/frontend-mentor-c2)
-- Live Site URL: [Live Site](https://timavidon.github.io/frontend-mentor-c2/)
+- Solution URL: [Github](https://github.com/timavidon/Results-summary-component)
+- Live Site URL: [Live Site](https://timavidon.github.io/Results-summary-component/)
 
 ## My process
 
@@ -31,9 +30,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 - HTML
 - CSS
-- Flexbox
-- Font: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
-
-### Continued development
-
-To improve the responsive design and to improve my overall skills and learn the best practices.
+- Mobile First
