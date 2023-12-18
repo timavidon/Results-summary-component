@@ -54,6 +54,7 @@
   /* Font weights */
   --fw-regular: 500;
   --fw-bold: 700;
+  --fw-bold: 500;
   --fw-extra-bold: 800;
 
   /* Font sizes */
@@ -62,7 +63,7 @@
   --fs-600: 1.5rem;
   --fs-700: 1.75rem;
   --fs-800: 2rem;
-  --fs-900: 5rem;
+  --fs-900: 4.5rem;
 }
 
 /* CSS Resets */
@@ -106,7 +107,7 @@ h4 {
 body {
   min-height: 100dvh;
   display: grid;
-  line-height: 1.6;
+  line-height: 1.3;
   font-family: var(--ff-primary);
   font-size: var(--fs-400);
   color: var(--clr-neutral-700);
@@ -118,7 +119,7 @@ body {
 }
 
 .result-summary {
-  --padding: 2.5rem;
+  --padding: 2.56rem;
   --border-radius: 2rem;
   max-width: 46rem;
   display: grid;
@@ -135,7 +136,7 @@ body {
 .result-score {
   display: grid;
   place-content: center;
-  width: 12rem;
+  width: 12.5rem;
   aspect-ratio: 1 / 1;
   margin-inline: auto;
   background: var(--gradient-to-transparent);
@@ -151,7 +152,7 @@ body {
 }
 
 .result-rank {
-  font-size: var(--fs-700);
+  font-size: var(--fs-800);
   font-weight: var(--fw-bold);
   color: var(--clr-neutral-100);
 }
@@ -165,11 +166,12 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  border-radius: 0.5rem;
-  background-color: hsl(var(--item-color), 0.1);
+  border-radius: 0.8rem;
+  background-color: hsl(var(--item-color), 0.065);
 }
 
 .summary-item-title {
+  font-size: var(--fs-400);
   font-weight: var(--fw-bold);
   color: hsl(var(--item-color));
 }
@@ -197,10 +199,11 @@ body {
 
 .summary-score-num {
   color: var(--clr-neutral-700);
+  margin-right: 0.5rem;
 }
 
 .button {
-  padding: 1rem;
+  padding: 1.2rem;
   border: none;
   border-radius: 100vw;
   color: var(--clr-neutral-100);
@@ -236,7 +239,7 @@ body {
 .flex-group {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.78rem;
   flex-wrap: wrap;
 }
 
